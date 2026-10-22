@@ -191,9 +191,14 @@ Menu names may vary slightly by Excel version.
 This project demonstrates how Excel can be used for **data cleaning, analysis, visualization, and business reporting**—turning raw sales records into clear information that supports better decisions.
 
 ---
+## 👨‍💻 Author
+
+## Kush Kumar ##
+
 
 <div align="center">
 
 **Made with 💚 Microsoft Excel | 📊 Data Analysis | 💡 Business Insights**
 
 </div>
+
