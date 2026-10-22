@@ -4,10 +4,6 @@
 
 ### 🧮 From Raw Data to Actionable Insights with Microsoft Excel
 
-<p>
-  <img src="https://img.shields.io/badge/Focus-Dashboard%20%26%20KPIs-6A5ACD?style=for-the-badge" alt="Dashboard and KPIs">
-</p>
-
 **An Excel-based analytics project focused on customer behavior, sales performance, profitability, and business insights.**
 
 </div>
