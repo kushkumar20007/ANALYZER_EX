@@ -5,8 +5,6 @@
 ### 🧮 From Raw Data to Actionable Insights with Microsoft Excel
 
 <p>
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-Data%20Analysis-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel">
-  <img src="https://img.shields.io/badge/Project-Sales%20Analytics-0A66C2?style=for-the-badge" alt="Sales Analytics">
   <img src="https://img.shields.io/badge/Focus-Dashboard%20%26%20KPIs-6A5ACD?style=for-the-badge" alt="Dashboard and KPIs">
 </p>
 
