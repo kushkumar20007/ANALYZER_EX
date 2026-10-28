@@ -43,6 +43,11 @@ This project uses Microsoft Excel to transform raw sales data into useful busine
 | 📊 Charts | Visualize sales trends and category comparisons |
 | 🖥️ Dashboard | Present KPIs and findings in one place |
 
+
+## 🎥 Video Demonstration
+
+[![Watch Video](https://img.shields.io/badge/🎥-Watch_Video-red?style=for-the-badge)](https://drive.google.com/file/d/1tjl2M4JcukVfXUzuctqPdFR3W2KOe-Sy/view?usp=sharing)
+
 ## 📂 Analysis Tasks
 
 ### 1. 🏆 Top 10 Customers — Conditional Formatting
